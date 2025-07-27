@@ -30,3 +30,24 @@ This is a Python automation project built using Selenium. The script automates t
    ```bash
    git clone https://github.com/your-username/automation-login-bot.git
    cd automation-login-bot
+   Install dependencies:
+
+2.Make sure you have Python installed. Then install the required libraries:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3.If requirements.txt is not there, you can install manually:
+
+bash
+Copy
+Edit
+pip install selenium webdriver-manager
+4.▶️ How to Run
+Just run the script using Python:
+
+bash
+Copy
+Edit
+python login_bot.py
